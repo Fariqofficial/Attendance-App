@@ -43,7 +43,7 @@ Ensure you have installed:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/attendance_app.git](https://github.com/your-username/attendance_app.git)
+   git clone https://github.com/Fariqofficial/attendance_app.git
    cd attendance_app
 ---
 ### 👨‍💻 Develop by @Fariqofficial
